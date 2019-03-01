@@ -13,7 +13,7 @@ const Home = props => {
           <li>Jokes! Jokes! Jokes! Get some hilarious dad jokes<br></br>
           You must be logged in to access the jokes.</li>
           <li>Log In. Use this if you are already registered</li>
-          <li>Register. Use this to enter a new member</li>
+          <li>Register. Use this to enter a new user</li>
           <li>Log Out. End your session.</li>
       </ol>
       </h3>
